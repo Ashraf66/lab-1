@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c6e2ff</color>
+    <color name="colorPrimaryDark">#d3ffce</color>
+    <color name="colorAccent">#FF0000</color>
+    <color name="colorblue">#00ffff</color>
+</resources>
+
+
+
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
+
+
+
+
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_signup">signup</string>
+    <string name="title_activity_home">home</string>
+    <string name="user">username</string>
+    <string name="pass">password</string>
+    <string name="welcome">WELCOME</string>
+    <string name="LOGIN">login</string>
+    <string name="uno">signup</string>
+    <string name="dos">submit</string>
+</resources>
+
+
+
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
